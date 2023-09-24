@@ -1,4 +1,4 @@
-# Final Project: Wikipedia AI Bot
+# WikiWise: An AI-Powered Interactive Navigator for Wikipedia
 ### [*Option B: Pick Project from Practical MLOPs Book-Appendix E. Building a Technical Portfolio for MLOps*](https://www.oreilly.com/library/view/practical-mlops/9781098103002/app05.html#idm45917434442872)
 
 ## Goals
